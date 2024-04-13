@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Phone List</string>
+    <string name="username">Username</string>
+    <string name="senha">Password</string>
+    <string name="keep_me_logged">Keep me logged</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up!</string>
+    <string name="recover_your_password">Recover your password</string>
+    <string name="confirme_sua_senha">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="please_insert_all_required_fields">Please, insert all required fields</string>
+    <string name="passwords_don_t_match">Passwords don\'t match</string>
+    <string name="signup_error">Signup ERROR</string>
+    <string name="signup_ok">Signup OK</string>
+    <string name="login_error">Login ERROR</string>
+    <string name="logout">Logout</string>
+</resources>
